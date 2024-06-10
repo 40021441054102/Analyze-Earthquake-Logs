@@ -21,7 +21,7 @@ HTML_BOX_WIDTH = 300
 HTML_BOX_HEIGHT = 200
 HTML_MAX_WIDTH = 300
 
-FILTER_MAGNITUDE_BELOW = 2.0
+FILTER_MAGNITUDE_BELOW = 1.0
 
 # - Earthquake Log Handler Class
 class EarthquakeLogs:
